@@ -10,7 +10,18 @@ A markdown file is a text file with special formating. These files have extensio
 
 In **Fig. 1** i tried to draw a computer and I included only a cardboard box. At this point I... << This is a description
 
-List of commands in Markdown
+
+
+# List of commands in Markdown
+
+| command | action |
+|-------|----------|
+| #     | Title    |
+
 # title
 ## subtitle
 ### smaller title
+**bold**
+```.py
+Python code
+```
